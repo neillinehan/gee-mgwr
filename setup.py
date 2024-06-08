@@ -16,5 +16,5 @@ setup(
     author='Neil Linehan',
     author_email='neiledwardlinehan@gmail.com',
     description='A package for performing a multiscale MGWR analysis on Google Earth Engine images',
-    url='https://github.com/neillinehan/gee-mgwr',
+    url='https://github.com/neillinehan/gee_mgwr',
 )
